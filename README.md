@@ -2,4 +2,5 @@
 FRIB TA Summer School Final Project
 
 
-![IMG_C1D3B2F8BE43-1](https://github.com/sudhanvalalit/FRIBSummerProject2023/assets/70040511/166f8245-5373-4bbc-a13f-802eab1fd5b1)
+
+![9FCCE311-E0BD-42A6-8F8E-B9DCB2D4E9FE_1_201_a](https://github.com/sudhanvalalit/FRIBSummerProject2023/assets/70040511/04b79a5d-479b-40f2-bbd3-5a595c12f42a)
